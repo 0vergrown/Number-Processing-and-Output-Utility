@@ -24,7 +24,7 @@ To run this program, you need a C++ compiler that supports C++11 or later. Commo
    ```bash
    git clone https://github.com/your-username/number-processing-utility.git
    ```
-2. Navigating to the directory containing your program on a command line interface (CLI) depends on your operating system. Here’s how you can do it on Windows, macOS, and Linux:
+2. Navigate to the directory containing your program on a command line interface (CLI) depends on your operating system. Here’s how you can do it on Windows, macOS, and Linux:
    ### On Windows
    - **Open Command Prompt**: You can search for "cmd" in the Start menu and click on the "Command Prompt" to open it.
    - **Change Directory**: Use the `cd` (change directory) command to navigate to the directory where your program is located. For example, if your program is in a folder named "NumberUtility" on your desktop, you would type:
@@ -48,11 +48,11 @@ To run this program, you need a C++ compiler that supports C++11 or later. Commo
    
    These commands should help you navigate the filesystem in the command line interface effectively, allowing you to locate and manage your program files.
    
-4. Compile the program using a C++ compiler.
+3. Compile the program using a C++ compiler.
    ```bash
    g++ -o NumberUtility main.cpp
    ```
-5. Run the compiled executable.
+4. Run the compiled executable.
    ```bash
    ./NumberUtility
    ```
