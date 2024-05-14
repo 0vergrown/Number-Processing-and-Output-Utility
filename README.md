@@ -22,14 +22,14 @@ To run this program, you need a C++ compiler that supports C++11 or later. Commo
 ### Steps:
 1. Clone this repository or download the source file.
    ```bash
-   git clone https://github.com/your-username/number-processing-utility.git
+   git clone https://github.com/your-username/Number-Processing-and-Output-Utility.git
    ```
 2. Navigate to the directory containing your program on a command line interface (CLI) depends on your operating system. Here’s how you can do it on Windows, macOS, and Linux:
    ### On Windows
    - **Open Command Prompt**: You can search for "cmd" in the Start menu and click on the "Command Prompt" to open it.
    - **Change Directory**: Use the `cd` (change directory) command to navigate to the directory where your program is located. For example, if your program is in a folder named "NumberUtility" on your desktop, you would type:
       ```bash
-      cd Desktop\NumberUtility
+      cd Desktop\Number-Processing-and-Output-Utility
       ```
    Make sure to replace "Desktop\NumberUtility" with the actual path where your program is stored.
 
@@ -37,7 +37,7 @@ To run this program, you need a C++ compiler that supports C++11 or later. Commo
    - **Open Terminal**: You can find the Terminal in your Applications folder under Utilities on macOS, or search for it in your applications menu on Linux.
    - **Change Directory**: Use the `cd` command just like in Windows, but the path might look slightly different. For example, if your program is in a folder named "NumberUtility" on your desktop, you would type:
       ```bash
-      cd ~/Desktop/NumberUtility
+      cd ~/Desktop/Number-Processing-and-Output-Utility
       ```
    Here, `~` signifies your home directory, and paths are typically case-sensitive on macOS and Linux.
 
@@ -50,11 +50,11 @@ To run this program, you need a C++ compiler that supports C++11 or later. Commo
    
 3. Compile the program using a C++ compiler.
    ```bash
-   g++ -o NumberUtility main.cpp
+   g++ -o Number-Processing-and-Output-Utility main.cpp
    ```
 4. Run the compiled executable.
    ```bash
-   ./NumberUtility
+   ./Number-Processing-and-Output-Utility
    ```
 
 ## Usage
